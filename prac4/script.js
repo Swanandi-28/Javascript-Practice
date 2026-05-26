@@ -1,12 +1,12 @@
 const quiz = [
     {
-        question: "What does HTML stands for?",
+        question: "What does HTML stand for?",
         options:["Hyper Text Markup Language", "High Text Markup Language", "Hyper Text Machine Language", "High Text Machine Language"],
         answer: "Hyper Text Markup Language"
     },
 
     {
-        question: "What does CSS stands for?",
+        question: "What does CSS stand for?",
         options:["Creative Style Sheets", "Cascading Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
         answer: "Cascading Style Sheets"
     },
@@ -18,7 +18,7 @@ const quiz = [
     },
     
     {
-        question: "What does JS stands for?",
+        question: "What does JS stand for?",
         options:["JavaScript", "JavaSource", "JustScript", "JScript"],
         answer: "JavaScript"    
     },
